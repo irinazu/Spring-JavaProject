@@ -1,0 +1,50 @@
+.wrap{
+    display: flex;
+    width: 80%;
+}
+
+.block_first{
+    margin: 10px 10px 10px 10px;
+    width: 100%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.block_second{
+    margin: 10px 10px 10px 10px;
+    /*width: 30%;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#innerblock{
+    height: 650px;
+    margin: 10px 10px 10px 10px;
+    border-bottom: solid;
+    border-top: solid;
+}
+
+#delete{
+    margin-bottom: 10px;
+}
+.but{
+    display: flex;
+    width: 100%;
+}
+#minusBut{
+    width: 40px;
+    margin-left: 10px;
+}
+
+#plusBut{
+    width: 40px;
+}
+
+.wrap_block{
+    margin-top: 50px;
+    display: flex;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
